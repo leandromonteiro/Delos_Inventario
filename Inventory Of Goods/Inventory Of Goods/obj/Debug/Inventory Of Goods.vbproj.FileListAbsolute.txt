@@ -1,0 +1,26 @@
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.exe.config
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.exe
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.pdb
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.xml
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.Resources.resources
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.vbproj.GenerateResource.Cache
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.exe
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.xml
+c:\users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.pdb
+C:\Users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.vbproj.ResolveComReference.cache
+C:\Users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.FRM_Log.resources
+C:\Users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.Frm_Inventário.resources
+C:\Users\leandro.castro\documents\visual studio 2013\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.Frm_DGV.resources
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.exe
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.xml
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.pdb
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.exe.config
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.vbproj.ResolveComReference.cache
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.exe
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.pdb
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\bin\Debug\Inventory Of Goods.xml
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.Frm_DGV.resources
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.Frm_Inventário.resources
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.FRM_Log.resources
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory_Of_Goods.Resources.resources
+C:\Users\delos\Documents\Visual Studio 2012\Projects\Inventory Of Goods\Inventory Of Goods\obj\Debug\Inventory Of Goods.vbproj.GenerateResource.Cache
